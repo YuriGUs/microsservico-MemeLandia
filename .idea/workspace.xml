@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/api" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/categoria-service" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -140,7 +140,7 @@
       <workItem from="1761056863057" duration="4558000" />
       <workItem from="1761061449535" duration="1851000" />
       <workItem from="1761063336825" duration="3491000" />
-      <workItem from="1761305633981" duration="1953000" />
+      <workItem from="1761305633981" duration="2276000" />
     </task>
     <servers />
   </component>
