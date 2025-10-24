@@ -1,0 +1,27 @@
+# Arquivos de configuração sensíveis
+application.properties
+
+# Logs
+logs/
+*.log
+
+# Arquivos do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Arquivos do IDE (IntelliJ, VSCode)
+.idea/
+*.iml
+.vscode/
+*.iws
+*.ipr
+*.PROJECT
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
