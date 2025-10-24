@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/categoria-service/categoria-service.iml" filepath="$PROJECT_DIR$/categoria-service/categoria-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/meme-service/meme-service.iml" filepath="$PROJECT_DIR$/meme-service/meme-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microsservicoMeme.iml" filepath="$PROJECT_DIR$/.idea/microsservicoMeme.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
